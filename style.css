@@ -140,6 +140,11 @@ article:hover{
     margin-top: 1em;
 }
 
+.p-cou{
+    text-align: start;
+    margin: 1em 2em 1em 2em;
+}
+
 
 /*************** CORPS *******************/
 
@@ -177,8 +182,52 @@ p {
     color: #ed1c24;
 }
 
+/******************** FORM ****************************/
+.teste{
+    width: 90%;
+    margin:auto;
+    background-image: url("img/working.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
+.form-example {
 
+    border: 1px solid gray;
+    height: 30em;
+    -moz-box-shadow: 10px 5px 5px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 10px 5px 5px rgba(0,0,0,0.2);
+    box-shadow: 1px 5px 5px rgba(0,0,0,0.5);
+}
+
+.form{
+    margin: 2em 2em 2em 2em;
+}
+
+.form-button{
+   padding-left: 10%;
+}
+
+.title-form{
+    margin: auto;
+    color: blue;
+    padding-left: 0.9em;
+    margin: 2em 2em 2em 2em;
+}
+
+.submit{
+
+    background: red;
+    width: 90%;
+    text-align: center;
+    border-radius: 10px;
+    height: 40px;
+}
+
+textarea{
+    width: 100%;
+    height: 100px;
+}
 /***************** FOOTER *************************/
 
 footer{
