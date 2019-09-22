@@ -140,12 +140,7 @@ article:hover{
 
 }
 
-.p-cou-2{
-    color: white;
-}
-.p-cou-2:hover{
-    display: none;
-}
+
 
 .float-right {
     background: #ffffff;
@@ -199,6 +194,16 @@ article:hover{
     text-align: start;
     margin: 1em 2em 1em 2em;
 }
+
+.p-cou-2 {
+    color: white;
+    text-align: start;
+    padding-left: 1.6em;
+}
+
+    .p-cou-2:hover {
+        display: none;
+    }
 
 
 /*************** CORPS *******************/
